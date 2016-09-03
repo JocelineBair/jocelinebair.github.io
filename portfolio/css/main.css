@@ -81,6 +81,7 @@ section {
     display: inline-block;
     max-width: calc(50% - 40px);
     line-height: 2em;
+    vertical-align: top;
 }
 
 #about p:first-of-type {
