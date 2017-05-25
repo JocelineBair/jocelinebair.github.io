@@ -131,11 +131,8 @@ section {
    vertical-align: top;
 }
 
-#contact-photo {
-    border-color: #fff;
-    border-width: 12px;
-    border-style: solid;
-    background-color: #ebebeb;
+#collage-photo {
+    width: 544px;
 }
 
 a {
